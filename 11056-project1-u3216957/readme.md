@@ -1,6 +1,6 @@
     CANBERRA MODERN WEBSITE
     
-Project status:Prototyping stage
+Project status: Prototyping stage
 
 README
 
