@@ -26,6 +26,8 @@ EVENTS
     First example utilised was a bit of a confusing setup as opposed to the current website.
     Second example outlines a simpler method in relation to the current website but very similar.
     
+    
+    
     ![Event 1](https://user-images.githubusercontent.com/125320027/231738349-040ada53-0bdc-4263-90ff-628ae156f499.jpg)    
     ![events2](https://user-images.githubusercontent.com/125320027/231738475-7187719f-aaea-4b6a-8ef9-cbd992f331e3.jpg)
     
