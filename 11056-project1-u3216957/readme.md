@@ -1,4 +1,5 @@
-    Canberra Modern Website
+    CANBERRA MODERN WEBSITE
+    
 Project status:Prototyping stage
 
 README
@@ -21,6 +22,7 @@ HOMEPAGE
 ABOUT
     ![about](https://user-images.githubusercontent.com/125320027/231737943-86c57165-800c-4995-9d09-afbcbcc44e3c.jpg)
 EVENTS
+
     First example utilised was a bit of a confusing setup as opposed to the current website.
     ![Event 1](https://user-images.githubusercontent.com/125320027/231738349-040ada53-0bdc-4263-90ff-628ae156f499.jpg)
     Second example outlines a simpler method in relation to the current website but very similar.
@@ -29,10 +31,12 @@ CANBERRAS MODERN
     ![canberrasmodern page](https://user-images.githubusercontent.com/125320027/231738666-040b5839-90d4-456e-8afa-801cdbe0d3e3.jpg)
 
 REQUIREMENTS
+
     HTML5
     CSS
 
 ROADMAP
+
     In building the website it first started off with creating a simple layout of each page and from that
     it began by working at the navbar and footer to be cohesive for each page but not yet responsive. From
     that, content was made up for each page and it was then made to be organised in CSS.
@@ -49,12 +53,15 @@ ROADMAP
     building's name and seemed to have a lot go wrong in the process so I had revoked doing this.
 
 PROBLEMS
+
     - Containing Images
     - Moving images and text effectively on mobile platform
     - Hover function over images
     
 LICENSE
+
     MIT License
 
 CONTRIBUTORS
+
     Richard Caines (Author)
