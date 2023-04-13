@@ -18,9 +18,9 @@ VISUALISATION
     Before undergoing coding the website, previous drawing mockups were made to give an easier picture 
     of the end product and how to navigate around certain paths to achieve a look.
 HOMEPAGE
-    ![Home page](https://user-images.githubusercontent.com/125320027/231737800-2b194d2f-3f6a-4e6e-9d21-ce37541019b4.jpg)
+![Home page](https://user-images.githubusercontent.com/125320027/231737800-2b194d2f-3f6a-4e6e-9d21-ce37541019b4.jpg)
 ABOUT
-    ![about](https://user-images.githubusercontent.com/125320027/231737943-86c57165-800c-4995-9d09-afbcbcc44e3c.jpg)
+![about](https://user-images.githubusercontent.com/125320027/231737943-86c57165-800c-4995-9d09-afbcbcc44e3c.jpg)
 EVENTS
 
     First example utilised was a bit of a confusing setup as opposed to the current website.
@@ -28,11 +28,11 @@ EVENTS
     
     
     
-    ![Event 1](https://user-images.githubusercontent.com/125320027/231738349-040ada53-0bdc-4263-90ff-628ae156f499.jpg)    
-    ![events2](https://user-images.githubusercontent.com/125320027/231738475-7187719f-aaea-4b6a-8ef9-cbd992f331e3.jpg)
+![Event 1](https://user-images.githubusercontent.com/125320027/231738349-040ada53-0bdc-4263-90ff-628ae156f499.jpg)    
+![events2](https://user-images.githubusercontent.com/125320027/231738475-7187719f-aaea-4b6a-8ef9-cbd992f331e3.jpg)
     
 CANBERRAS MODERN
-    ![canberrasmodern page](https://user-images.githubusercontent.com/125320027/231738666-040b5839-90d4-456e-8afa-801cdbe0d3e3.jpg)
+![canberrasmodern page](https://user-images.githubusercontent.com/125320027/231738666-040b5839-90d4-456e-8afa-801cdbe0d3e3.jpg)
 
 REQUIREMENTS
 
