@@ -61,6 +61,7 @@ PROBLEMS
     - Containing Images
     - Moving images and text effectively on mobile platform
     - Hover function over images
+    - Appearance is affected due to lack of presentation
     
 LICENSE
 
